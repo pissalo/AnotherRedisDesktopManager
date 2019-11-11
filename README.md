@@ -1,6 +1,6 @@
 <img align="right" width="110" src="https://ftp.bmp.ovh/imgs/2019/09/6be6ffd8b70fbb50.png">
 
-# Another Redis DeskTop Manager
+# Another Redis DeskTop Manager（Redis可视化软件）
 
 <hr/>
 
